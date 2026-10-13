@@ -34,7 +34,7 @@
   ],
   "DirectIp": [
     "geoip:private",
-    "geoip:direct"
+    "geoip:direct",
     "geoip:139.100.226.236"
   ],
   "ProxySites": [
